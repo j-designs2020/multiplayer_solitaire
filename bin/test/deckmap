@@ -1,0 +1,129 @@
+//		// DECK INDEX ///////////////////////////////////////////////////////
+//		0 - AH
+//		1 - 2H
+//		2 - 3H
+//		3 - 4H
+//		4 - 5H
+//		5 - 6H
+//		6 - 7H
+//		7 - 8H
+//		8 - 9H
+//		9 - 10H
+//		10 - JH
+//		11 - QH
+//		12 - KH
+//		13 - AC
+//		14 - 2C
+//		15 - 3C
+//		16 - 4C
+//		17 - 5C
+//		18 - 6C
+//		19 - 7C
+//		20 - 8C
+//		21 - 9C
+//		22 - 10C
+//		23 - JC
+//		24 - QC
+//		25 - KC
+//		26 - AD
+//		27 - 2D
+//		28 - 3D
+//		29 - 4D
+//		30 - 5D
+//		31 - 6D
+//		32 - 7D
+//		33 - 8D
+//		34 - 9D
+//		35 - 10D
+//		36 - JD
+//		37 - QD
+//		38 - KD	
+//		39 - AS
+//		40 - 2S
+//		41 - 3S
+//		42 - 4S
+//		43 - 5S
+//		44 - 6S
+//		45 - 7S
+//		46 - 8S
+//		47 - 9S
+//		48 - 10S
+//		49 - JS
+//		50 - QS
+//		51 - KS
+
+// DEALT MAP (deck2)//////////////////////////////////////
+//0	 ONE_A 
+//1  twoA 
+//2  threeA 
+//3  fourA 
+//4  fiveA
+//5  sixA 
+//6  sevenA 
+
+//7 TWO_B 
+//8 threeB 
+//9 fourB  
+//10 fiveB 
+//11 sixB 
+//12 sevenB 
+		
+//13 THREE_C 
+//14 fourC  
+//15 fiveC 
+//16 sixC 
+//17 sevenC 
+		
+//18 FOUR_D  
+//19 fiveD 
+//20 sixD 
+//21 sevenD 
+		
+//22 FIVE_E 
+//23 sixE 
+//24 sevenE 
+		
+//25 SIX_F 
+//26 sevenF 
+		
+//27 SEVEN_G 
+		
+//28-51 EXTRAS 
+		
+// BOARD MAP/////////////////////////////////////////////
+		
+//ONE_A
+		
+// TWO_B
+// twoA
+		
+//THREE_C
+// threeB
+// threeA
+		
+//FOUR_D
+// fourC 
+// fourB
+// fourA
+		
+// FIVE_E
+// fiveD
+// fiveC
+// fiveB
+// fiveA
+		
+// SIX_F
+// sixE
+// sixD
+// sixC
+// sixB
+// sixA
+		
+// SEVEN_G
+// sevenF
+// sevenE
+// sevenD
+// sevenC
+// sevenB
+// sevenA		
+		
